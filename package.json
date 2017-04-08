@@ -1,0 +1,20 @@
+{
+  "name": "@marvin-dss/client-endpoint",
+  "version": "0.0.1",
+  "description": "Simplified client for socket.io messaging. See @marvin-dss/server-endpoint.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronwp/client-endpoint.git"
+  },
+  "author": "Cameron Pittman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cameronwp/client-endpoint/issues"
+  },
+  "homepage": "https://github.com/cameronwp/client-endpoint#readme",
+  "dependencies": {
+    "@marvin-dss/endpoint": "^0.1.0",
+    "socket.io-client": "^1.7.3"
+  }
+}
