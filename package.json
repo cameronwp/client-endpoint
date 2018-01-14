@@ -1,7 +1,7 @@
 {
-  "name": "@marvin-dss/client-endpoint",
+  "name": "@cameronwp/client-endpoint",
   "version": "0.0.1",
-  "description": "Simplified client for socket.io messaging. See @marvin-dss/server-endpoint.",
+  "description": "Simplified client for socket.io messaging. See @cameronwp/server-endpoint.",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/cameronwp/client-endpoint#readme",
   "dependencies": {
-    "@marvin-dss/endpoint": "^0.1.0",
+    "@cameronwp/endpoint": "^0.1.1",
     "socket.io-client": "^1.7.3"
   }
 }
