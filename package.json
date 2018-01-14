@@ -1,6 +1,6 @@
 {
   "name": "@cameronwp/client-endpoint",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simplified client for socket.io messaging. See @cameronwp/server-endpoint.",
   "main": "index.js",
   "repository": {

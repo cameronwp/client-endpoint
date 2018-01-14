@@ -2,10 +2,10 @@
 
 _The client side of simplified socket.io messaging._
 
-See also [server-endpoint](https://github.com/cameronwp/server-endpoint). Testing happens in cameronwp/server-endpoint.
+See also [@cameronwp/server-endpoint](https://github.com/cameronwp/server-endpoint). Testing happens in @cameronwp/server-endpoint.
 
 ```sh
-npm i -S client-endpoint
+npm i -S @cameronwp/client-endpoint
 ```
 
 ## Sample Usage
