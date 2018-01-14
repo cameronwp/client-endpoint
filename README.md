@@ -16,7 +16,7 @@ All examples assume that on{message,request} handlers were set before any {messa
 // server.js
 const ServerEndpoint = require('@cameronwp/server-endpoint');
 
-const port = '8000';
+const port = 8000;
 const server = new ServerEndpoint(port);
 const namespace = server.createNamespace('chat'); // create as many namespaces as you want
 
